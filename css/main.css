@@ -709,7 +709,7 @@ vertical-align: middle;
   position: relative;
   padding: 30px 30px 20px;
   z-index: 0;
-  height: 420px !important;
+  height: 420px;
   width: 305px;
 }
 .counter-box:after {

@@ -781,7 +781,7 @@ line-height: 24px;
 letter-spacing: 0%;
 text-transform: capitalize;
 color: #33561D;
-white-space: nowrap;
+/* white-space: nowrap; */
 }
 .count-content{
   font-family: Arial;
@@ -3425,13 +3425,3 @@ opacity: 0.3;
     box-shadow: 0 0 0 0 rgba(78, 99, 215, 0);
   }
 }
-/**
-* Customize SCSS
-*
-* @author Ajay138
-* @version 1.0
-*
-* "You can add your own style below this comment".
-*/
-
-/*# sourceMappingURL=main.css.map*/

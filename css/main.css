@@ -1042,6 +1042,12 @@ color: #333333 !important;
   position: absolute;
 }
 
+.testimonial-slider {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
 
 /* ===== CTA Section ===== */
 .cta-section {

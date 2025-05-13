@@ -788,7 +788,7 @@ color: #33561D;
 font-weight: 700;
 font-size: 16px !important;
 line-height: 24px;
-letter-spacing: 0%;
+letter-spacing: -0.2px;;
 text-transform: capitalize;
 color: #33561D;
 /* white-space: nowrap; */
